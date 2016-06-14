@@ -1,0 +1,128 @@
+WARNING: Blower 40 lacks a parent.
+WARNING: Blower 50 lacks a parent.
+WARNING: Station 2 SURG lacks a child.
+WARNING: Station 2 SURG lacks a zone.
+WARNING: Station 3 BEDS 3300-3324 lacks a child.
+WARNING: Station 3 BEDS 3300-3324 lacks a zone.
+WARNING: Station 4 4399 lacks a child.
+WARNING: Station 4 4399 lacks a zone.
+WARNING: Station 5 1PP lacks a child.
+WARNING: Station 5 1PP lacks a zone.
+WARNING: Station 6 2PP lacks a child.
+WARNING: Station 6 2PP lacks a zone.
+WARNING: Station 7 CENTRAL 3389 lacks a child.
+WARNING: Station 7 CENTRAL 3389 lacks a zone.
+WARNING: Station 8 PRE ADMIT lacks a child.
+WARNING: Station 8 PRE ADMIT lacks a zone.
+WARNING: Station 9  lacks a child.
+WARNING: Station 9  lacks a zone.
+WARNING: Station 10  lacks a zone.
+WARNING: Station 11 STAGING lacks a zone.
+WARNING: Station 12 3511 lacks a zone.
+WARNING: Station 13 1505 lacks a zone.
+WARNING: Station 14 DIALYSIS lacks a zone.
+WARNING: Station 15 OUTPATIENT lacks a zone.
+WARNING: Station 16 PATIENT lacks a zone.
+WARNING: Station 17  lacks a zone.
+WARNING: Station 18  lacks a child.
+WARNING: Station 18  lacks a zone.
+WARNING: Station 19 ENGINEERING lacks a child.
+WARNING: Station 19 ENGINEERING lacks a zone.
+WARNING: Station 20 CENTRAL lacks a zone.
+WARNING: Station 21  lacks a zone.
+WARNING: Station 22  lacks a zone.
+WARNING: Station 23  lacks a zone.
+WARNING: Station 24 3096 lacks a child.
+WARNING: Station 24 3096 lacks a zone.
+WARNING: Station 25 3002 lacks a zone.
+WARNING: Station 26 2358 lacks a zone.
+WARNING: Station 30 2199 lacks a zone.
+WARNING: Station 31  lacks a zone.
+WARNING: Station 32 4772 lacks a zone.
+WARNING: Station 33 4754 lacks a zone.
+WARNING: Station 34 OVER- lacks a zone.
+WARNING: Station 35  lacks a zone.
+WARNING: Station 36 1735 lacks a zone.
+WARNING: Station 38  lacks a child.
+WARNING: Station 38  lacks a zone.
+WARNING: Station 39 NON- lacks a child.
+WARNING: Station 39 NON- lacks a zone.
+WARNING: Station 41  lacks a zone.
+WARNING: Station 42 BEDS 1-8 lacks a zone.
+WARNING: Station 43 BEDS 9-16 lacks a zone.
+WARNING: Station 44 BEDS 17-24 lacks a child.
+WARNING: Station 44 BEDS 17-24 lacks a zone.
+WARNING: Station 45 BEDS 25-32 lacks a zone.
+WARNING: Station 46 SURGERY lacks a parent.
+WARNING: Station 46 SURGERY lacks a child.
+WARNING: Station 46 SURGERY lacks a zone.
+WARNING: Station 51  lacks a zone.
+WARNING: Station 52 BEDS 1-8 lacks a zone.
+WARNING: Station 53 BEDS 9-16 lacks a zone.
+WARNING: Station 54 206-1699 lacks a zone.
+WARNING: Station 55 7299 lacks a zone.
+WARNING: Station 56  lacks a zone.
+WARNING: Station 57 BEDS 17-32 lacks a zone.
+WARNING: Station 58 3PP lacks a child.
+WARNING: Station 58 3PP lacks a zone.
+WARNING: Station 59 4PP lacks a child.
+WARNING: Station 59 4PP lacks a zone.
+WARNING: Station 61 8699 lacks a child.
+WARNING: Station 61 8699 lacks a zone.
+WARNING: Station 62  lacks a child.
+WARNING: Station 62  lacks a zone.
+WARNING: Station 71  lacks a child.
+WARNING: Station 71  lacks a zone.
+WARNING: Station 81  lacks a child.
+WARNING: Station 81  lacks a zone.
+WARNING: Station 82 26-33 lacks a child.
+WARNING: Station 82 26-33 lacks a zone.
+WARNING: Station 90 2899 lacks a child.
+WARNING: Station 90 2899 lacks a zone.
+WARNING: Station 91 1956 lacks a child.
+WARNING: Station 91 1956 lacks a zone.
+WARNING: Station 92  lacks a child.
+WARNING: Station 92  lacks a zone.
+WARNING: Station 93 3299 lacks a child.
+WARNING: Station 93 3299 lacks a zone.
+WARNING: Station 94 4299 lacks a child.
+WARNING: Station 94 4299 lacks a zone.
+WARNING: Station 95 5299 lacks a child.
+WARNING: Station 95 5299 lacks a zone.
+WARNING: Station 96 6299 lacks a child.
+WARNING: Station 96 6299 lacks a zone.
+WARNING: Station 99  lacks a child.
+WARNING: Station 99  lacks a zone.
+WARNING: Station   lacks a parent.
+WARNING: Station   lacks a child.
+WARNING: Station   lacks a zone.
+WARNING: Pevco Diverter 15 lacks a zone.
+WARNING: Pevco Diverter 12 lacks a zone.
+WARNING: Pevco Diverter 11 lacks a zone.
+WARNING: Pevco Diverter 17 lacks a zone.
+WARNING: Pevco Diverter 13 lacks a zone.
+WARNING: Pevco Diverter 16 lacks a zone.
+WARNING: Pevco Diverter 14 lacks a zone.
+WARNING: Pevco Diverter 21 lacks a zone.
+WARNING: Pevco Diverter 23 lacks a zone.
+WARNING: Pevco Diverter 22 lacks a zone.
+WARNING: Pevco Diverter 26 lacks a zone.
+WARNING: Pevco Diverter 25 lacks a zone.
+WARNING: Pevco Diverter 36 lacks a zone.
+WARNING: Pevco Diverter 37 lacks a zone.
+WARNING: Pevco Diverter 35 lacks a zone.
+WARNING: Pevco Diverter 33 lacks a zone.
+WARNING: Pevco Diverter 31 lacks a zone.
+WARNING: Pevco Diverter 34 lacks a zone.
+WARNING: Pevco Diverter 32 lacks a zone.
+WARNING: Pevco Diverter 45 lacks a zone.
+WARNING: Pevco Diverter 42 lacks a zone.
+WARNING: Pevco Diverter 43 lacks a zone.
+WARNING: Pevco Diverter 41 lacks a zone.
+WARNING: Pevco Diverter 54 lacks a zone.
+WARNING: Pevco Diverter 51 lacks a zone.
+WARNING: Pevco Diverter 52 lacks a zone.
+WARNING: Pevco Diverter 53 lacks a zone.
+WARNING: Pevco Diverter 55 lacks a zone.
+WARNING: Pevco Diverter 56 lacks a zone.
+WARNING: Pevco Diverter 57 lacks a zone.

@@ -1,0 +1,7 @@
+﻿  CADtoXML.cpp
+c:\users\ashsp\documents\github\atreogroup\cadtoxml\cadtoxml\cadtoxml.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashsp\documents\github\atreogroup\cadtoxml\cadtoxml\cadtoxml.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashsp\documents\github\atreogroup\cadtoxml\cadtoxml\cadtoxml.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashsp\documents\github\atreogroup\cadtoxml\cadtoxml\cadtoxml.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashsp\documents\github\atreogroup\cadtoxml\cadtoxml\cadtoxml.cpp(136): warning C4018: '<': signed/unsigned mismatch
+  CADtoXML.vcxproj -> C:\Users\Ashsp\Documents\GitHub\AtreoGroup\CADtoXML\Debug\CADtoXML.exe

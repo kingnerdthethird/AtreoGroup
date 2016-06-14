@@ -1,0 +1,9 @@
+Name,BLOWERID\U+0023,Layer,DEVICE-ID\U+0023,DEVICELOCATION,DEVICE-LOCATION,DEVICELOCATION(1),DIVERTERID\U+0023,DEVICE-ID-FROM\U+0023,DEVICE-ID-TO\U+0023,LENGTH-OF-PIPE
+Blower ID #,1,Pevco Device ID Zone 1,,,,,,,,
+Device-ID-Location,,Station ID Zone 1,2,Right,Station,Basement,,,,
+Device-ID-Location,,Station ID Zone 1,3,Left,Station,Basement,,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 1,,,,,4,,,
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,0,1,0
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,1,4,0
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,4,2,90
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,4,3,80

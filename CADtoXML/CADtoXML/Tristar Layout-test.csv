@@ -1,0 +1,199 @@
+Name,BLOWERID\U+0023,Layer,DEVICE-ID\U+0023,DEVICELOCATION,DEVICE-LOCATION,DEVICELOCATION(1),DIVERTERID\U+0023,DEVICE-ID-FROM\U+0023,DEVICE-ID-TO\U+0023,LENGTH-OF-PIPE
+Blower ID #,20,Pevco Device ID Zone 2,,,,,,,,
+Blower ID #,40,Pevco Device ID Zone 4,,,,,,,,
+Blower ID #,30,Pevco Device ID Zone 3,,,,,,,,
+Blower ID #,50,Pevco Device ID Zone 5,,,,,,,,
+Blower ID #,10,Pevco Device ID Zone 1,,,,,,,,
+Device-ID-Location,,Station ID Zone 3,2,SURG,CV,,,,,
+Device-ID-Location,,Station ID Zone 5,3,BEDS 3300-3324,NS-3N,3399,,,,
+Device-ID-Location,,Station ID Zone 5,4,4399,NS-4N,,,,,
+Device-ID-Location,,Station ID Zone 5,5,1PP,NS-1,,,,,
+Device-ID-Location,,Station ID Zone 5,6,2PP,NS-2,2482,,,,
+Device-ID-Location,,Station ID Zone 5,7,CENTRAL 3389,NS-3,BEDS 3325-3344,,,,
+Device-ID-Location,,Station ID Zone 5,8,PRE ADMIT,SC PASS,TESTING,,,,
+Device-ID-Location,,Station ID Zone 5,9,,NS-EMA,,,,,
+Device-ID-Location,,Station ID Zone 5,10,,RX,,,,,
+Device-ID-Location,,Station ID Zone 1,11,STAGING,MATERIAL MANAGEMENT,,,,,
+Device-ID-Location,,Station ID Zone 1,12,3511,IMAGING,,,,,
+Device-ID-Location,,Station ID Zone 3,13,1505,ED MAIN,,,,,
+Device-ID-Location,,Station ID Zone 1,14,DIALYSIS,1T ,2358,,,,
+Device-ID-Location,,Station ID Zone 1,15,OUTPATIENT,1T EMA,,,,,
+Device-ID-Location,,Station ID Zone 1,16,PATIENT,TOWER,REGIST,,,,
+Device-ID-Location,,Station ID Zone 3,17,,PICU,,,,,
+Device-ID-Location,,Station ID Zone 1,18,,OR,,,,,
+Device-ID-Location,,Station ID Zone 2,19,ENGINEERING,FACILITIES,,,,,
+Device-ID-Location,,Station ID Zone 5,20,CENTRAL,NS-2,2399,,,,
+Device-ID-Location,,Station ID Zone 1,21,,LAB,,,,,
+Device-ID-Location,,Station ID Zone 2,22,,LAB,,,,,
+Device-ID-Location,,Station ID Zone 3,23,,LAB,,,,,
+Device-ID-Location,,Station ID Zone 4,24,3096,LAB,,,,,
+Device-ID-Location,,Station ID Zone 2,25,3002,BLOOD BANK,,,,,
+Device-ID-Location,,Station ID Zone 1,26,2358,CDU,,,,,
+Device-ID-Location,,Station ID Zone 3,30,2199,PACU,,,,,
+Device-ID-Location,,Station ID Zone 2,31,,RX,,,,,
+Device-ID-Location,,Station ID Zone 3,32,4772,RX MAIN,,,,,
+Device-ID-Location,,Station ID Zone 1,33,4754,RX IV,,,,,
+Device-ID-Location,,Station ID Zone 1,34,OVER-,RX,FLOW,,,,
+Device-ID-Location,,Station ID Zone 4,35,,RX,,,,,
+Device-ID-Location,,Station ID Zone 3,36,1735,CVPREP,,,,,
+Device-ID-Location,,Station ID Zone 2,38,,CVICU-3,,,,,
+Device-ID-Location,,Station ID Zone 3,39,NON-,CARDIO,INVASIVE,,,,
+Device-ID-Location,,Station ID Zone 2,41,,NS-4,,,,,
+Device-ID-Location,,Station ID Zone 3,42,BEDS 1-8,MSICU,,,,,
+Device-ID-Location,,Station ID Zone 3,43,BEDS 9-16,MSICU,,,,,
+Device-ID-Location,,Station ID Zone 2,44,BEDS 17-24,MSICU,,,,,
+Device-ID-Location,,Station ID Zone 2,45,BEDS 25-32,MSICU,,,,,
+Device-ID-Location,,Station ID Zone 5,46,SURGERY,PLASTIC,ALARM,,,,
+Device-ID-Location,,Station ID Zone 2,51,,NS-5,,,,,
+Device-ID-Location,,Station ID Zone 3,52,BEDS 1-8,CCU,,,,,
+Device-ID-Location,,Station ID Zone 3,53,BEDS 9-16,CCU,,,,,
+Device-ID-Location,,Station ID Zone 3,54,206-1699,ED-2,,,,,
+Device-ID-Location,,Station ID Zone 4,55,7299,NICU BEDS 10-20,,,,,
+Device-ID-Location,,Station ID Zone 4,56,,NICU BEDS 21-36,,,,,
+Device-ID-Location,,Station ID Zone 3,57,BEDS 17-32,CCU-5W,,,,,
+Device-ID-Location,,Station ID Zone 5,58,3PP,NS-3,,,,,
+Device-ID-Location,,Station ID Zone 5,59,4PP,NS-4,,,,,
+Device-ID-Location,,Station ID Zone 2,61,8699,NS-6,,,,,
+Device-ID-Location,,Station ID Zone 3,62,,N & NSICU-6,,,,,
+Device-ID-Location,,Station ID Zone 2,71,,NS-7,,,,,
+Device-ID-Location,,Station ID Zone 2,81,,NS-8,,,,,
+Device-ID-Location,,Station ID Zone 2,82,26-33,BEDS,,,,,
+Device-ID-Location,,Station ID Zone 4,90,2899,OB-ED,,,,,
+Device-ID-Location,,Station ID Zone 4,91,1956,PAT/LAB,,,,,
+Device-ID-Location,,Station ID Zone 4,92,,OR,,,,,
+Device-ID-Location,,Station ID Zone 4,93,3299,NS-3,,,,,
+Device-ID-Location,,Station ID Zone 4,94,4299,NS-4,,,,,
+Device-ID-Location,,Station ID Zone 4,95,5299,NS-5,,,,,
+Device-ID-Location,,Station ID Zone 4,96,6299,NS-6,,,,,
+Device-ID-Location,,Station ID Zone 4,99,,NICU BEDS 37-60,,,,,
+Device-ID-Location,,Station ID Zone 5,,,PIPE ABANDONED,,,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 1,,,,,15,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 1,,,,,12,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 1,,,,,11,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 1,,,,,17,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 1,,,,,13,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 1,,,,,16,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 1,,,,,14,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 2,,,,,21,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 2,,,,,23,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 2,,,,,22,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 2,,,,,26,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 2,,,,,25,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 3,,,,,36,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 3,,,,,37,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 3,,,,,35,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 3,,,,,33,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 3,,,,,31,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 3,,,,,34,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 3,,,,,32,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 4,,,,,45,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 4,,,,,42,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 4,,,,,43,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 4,,,,,41,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 5,,,,,54,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 5,,,,,51,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 5,,,,,52,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 5,,,,,53,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 5,,,,,55,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 5,,,,,56,,,
+Pevco Diverter ID #,,Pevco Device ID Zone 5,,,,,57,,,
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,25,44,242
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,25,45,279
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,25,22,368
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,25,26,207
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,26,38,14
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,26,25,244
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,22,71,95
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,22,81,31
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,22,82,251
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,22,41,152
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,22,51,138
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,22,61,114
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,21,22,282
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,17,26,77
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,12,15,97
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,12,18,150
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,11,12,162
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,17,14,88
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,12,17,21
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,23,19,356
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,21,31,272
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,21,25,119
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,12,16,431
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,21,36,42
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,21,23,719
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,33,43,147
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,33,52,48
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,33,53,107
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,31,33,193
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,33,35,87
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,33,42,83
+Pipe Lengths,,Zone 2 Pipe Lengths,,,,,,20,21,0
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,30,31,0
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,50,51,0
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,35,57,140
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,35,62,165
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,10,11,0
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,34,54,353
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,31,2,146
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,37,39,126
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,37,36,165
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,31,36,77
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,31,32,349
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,36,37,284
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,32,23,48
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,32,17,388
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,34,13,60
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,37,30,154
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,36,32,282
+Pipe Lengths,,Zone 3 Pipe Lengths,,,,,,32,34,89
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,45,35,328
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,45,24,239
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,45,31,68
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,43,96,95
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,43,95,119
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,43,94,138
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,51,52,297
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,52,9,98
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,52,53,177
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,45,15,22
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,51,10,174
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,51,8,57
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,43,55,176
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,41,92,333
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,41,42,121
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,42,45,1103
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,40,41,0
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,41,90,225
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,41,91,129
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,42,43,167
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,43,99,65
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,43,56,70
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,42,23,342
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,42,23,337
+Pipe Lengths,,Zone 4 Pipe Lengths,,,,,,42,93,55
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,13,34,81
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,13,33,73
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,13,14,199
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,57,59,67
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,11,15,66
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,15,13,245
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,15,21,192
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,11,36,27
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,21,11,40
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,14,16,325
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,16,11,348
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,16,12,248
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,57,58,52
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,53,55,83
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,55,3,38
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,55,4,11
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,53,54,332
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,54,20,46
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,54,7,225
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,56,16,91
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,57,6,30
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,57,5,43
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,53,56,395
+Pipe Lengths,,Zone 5 Pipe Lengths,,,,,,56,57,359
+Pipe Lengths,,Zone 1 Pipe Lengths,,,,,,56,16,119
